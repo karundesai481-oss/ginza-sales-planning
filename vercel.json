@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "VITE_FIREBASE_API_KEY": "AIzaSyCgkd0TylEP3JJmvl5x5lC6qNH3Ce0t_us",
+    "VITE_FIREBASE_AUTH_DOMAIN": "order-target-planning.firebaseapp.com",
+    "VITE_FIREBASE_PROJECT_ID": "order-target-planning",
+    "VITE_FIREBASE_STORAGE_BUCKET": "order-target-planning.appspot.com",
+    "VITE_FIREBASE_MESSAGING_SENDER_ID": "524933553639",
+    "VITE_FIREBASE_APP_ID": "1:524933553639:web:55c3d46598cdb9f3d0f142"
+  }
+}
